@@ -86,6 +86,6 @@ diffMethod(oldKeyArray, newKeyArray);
 document.getElementById("app").innerHTML = `
 <h1>Diff算法自定义</h1>
 <div>
-  移动——>新增——>删除
+  移动——>新增——>删除哈哈
 </div>
 `;
